@@ -1,5 +1,5 @@
 # OAuth 2.0 Framework
-First of all read my blog post to understand the OAuth framework.
+First of all read my blog post to understand the OAuth framework.(https://ichibablog.blogspot.com/2018/10/oauth-2.html)
 It describes how to get your OAuth application registered in Facebook Developer account to get a App ID and App Secret.
 I have clearly mentioned each step in my blog.
 As it says the OAuth redirection endpoint of the client application is http://localhost:8080/facebookapp/callbackURL .If you are trying this project you need to change the those two files .
